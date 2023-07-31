@@ -1,21 +1,21 @@
 body {
-    background-color: #f4f4f4;
-    margin-top: 50px;
+    background-color: #242339;
+    margin-top: 100px;
     font-family: 'Lato';
 }
 
 .item {
-    background-color: white;
+    background-color: #45445e;;
     padding: 15px;
     margin-bottom: 15px;
     border: transparent;
     border-radius: 5px;
-    box-shadow: 0 0 1em #ccc;
+    box-shadow: 0 0 1em #252525;
     transition: all .2s ease-in-out;
 }
 
 .item:hover {
-    box-shadow: 0 0 1em #aaa;
+    box-shadow: 0 0 1em #353535;
 }
 
 .item.completed {
